@@ -11,7 +11,7 @@
 
 #### A.
 피보나치 수열의 n 번째 항을 \[f(n)\]이라고 하면
-$$F(n) = F(n-1) + F(n-2)$$가 된다.
+![equation](https://latex.codecogs.com/gif.latex?f(n)&space;=&space;f(n-1)&plus;f(n-2))가 된다.
 
 $$F(n)$$이 4,000,000 이하가 되도록 반복문을 설정하고 짝수인지를 체크하면서 모두 더한다.
 ```c
