@@ -70,4 +70,4 @@ int main()
 }
 ```
  ##### Answer : 23514624000
- ##### Thx to Lamanus
+ ##### Thx to Stepany_Lee(이 유 정)
