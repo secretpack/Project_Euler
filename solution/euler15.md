@@ -1,4 +1,4 @@
-# Project Euler 01
+# Project Euler 15
 ---
 #### Q.
 [그림은 링크를 참조하세요](ttp://euler.synap.co.kr/prob_detail.php?id=15)   
